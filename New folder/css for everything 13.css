@@ -18,7 +18,7 @@ h1{
     margin:0; 
 	color: #B22222;
 	font-family:Arial;
-	background-color:black;
+	background-color:#111;
 	margin-left:550px;
 	margin-bottom:20px
 }
@@ -29,26 +29,18 @@ h1{
 	}
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+	text-align:center;
     overflow: hidden;
     background-color:#111;
 }
 
  li{
     float: left;
-	padding : 1.53px;
-}
-
- li a{
-    display: block;
-    color: #B22222;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+	padding : 1.52px;
 }
 div{
-	background-color: #111
+	background-color: #111;
+	
 }
 img {
     display: block;
