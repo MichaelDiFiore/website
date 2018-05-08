@@ -54,9 +54,24 @@ input {
 	color: #B22222;
 }
 
-.divCenter {
+.divCenterBorder {
 	margin: auto;
     width: 60%;
     border: 3px solid #111;
     padding: 10px;
 }
+.photoSideBySide {
+	width: 500px;
+	height: 350px;
+	padding-top: 40px;
+	float: left; 
+}
+.right{
+   margin: auto;
+   width:7%;
+}
+.left{
+   margin: auto;
+   width:62%;
+}
+
