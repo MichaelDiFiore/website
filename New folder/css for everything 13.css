@@ -51,7 +51,7 @@ img {
 
 input {
 	background-color: #111;
-	color: #B22222;
+	
 }
 
 .divCenterBorder {
@@ -74,4 +74,13 @@ input {
    margin: auto;
    width:62%;
 }
-
+.button{
+	width:90px;
+	height: 30px; 
+	text-align: center;
+	color :#B22222; 
+}
+li:hover {
+    background-color:#585858;
+	color: #111;
+}
