@@ -27,7 +27,7 @@ h1{
 	padding-top: 40px;
 	}
 
-	ul {
+ul {
     list-style-type: none;
 	text-align:center;
     overflow: hidden;
@@ -77,19 +77,23 @@ input {
 .button {
 	background-color: #111; 
     border: none;
-    color: #B22222;
-    text-align: center;
+	text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+	color: #B22222;
 	width: 90px;
 	height: 30px;
 }
-button :hover{
-	background: #B22222;
-	color:#111:
+
+.button:hover {
+	background-color:#B22222;
+	color:#111;
+	
 }
+	
 .divCenterStuff{
 	width: 1000px;
 	margin: auto;
 }
+
