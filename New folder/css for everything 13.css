@@ -23,8 +23,8 @@ h1{
 }
 .photoSize {
 	width:1000px;
-    height:700px;
-	padding-top: 40px;
+    height:650px;
+	padding-top:none;
 	}
 
 ul {
@@ -63,8 +63,8 @@ input {
 .photoSideBySide {
 	width: 500px;
 	height: 350px;
-	padding-top: 40px;
 	float: left; 
+	padding-top: 20px;
 }
 .right{
    margin: auto;
