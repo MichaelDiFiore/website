@@ -96,4 +96,16 @@ input {
 	width: 1000px;
 	margin: auto;
 }
+.quiz {
+	width: 500px;
+	height: 350px;
+	float: left;
+	padding: 20px;
+}
 
+	background-color: #111; 
+    font-size: 16px;
+	color: #B22222;
+	width: 90px;
+	height: 30px;
+}

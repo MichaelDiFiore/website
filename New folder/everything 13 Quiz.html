@@ -36,9 +36,34 @@
   <li><input class = "button"type="button" value="Quiz"onclick="window.location.href='everything 13 Quiz.html'"/></li>
  </ul>
  </form>
+  
+  <div class= "divCenterBorder">
+  
+   <h2> wich one is a Jordan 1 </h2>
+  
+  </div>
+  
+  <div class = "divCenterStuff">
+  
+ <img class="quiz" Src ="https://www.flightclub.com/media/catalog/product/cache/1/image/1600x1140/9df78eab33525d08d6e5fb8d27136e95/0/1/012492_1.jpg"/>
+ <img class="quiz" Src ="https://www.flightclub.com/media/catalog/product/cache/1/image/1600x1140/9df78eab33525d08d6e5fb8d27136e95/0/1/012492_1.jpg"/>
+ <button onclick="quizRight ()">Click me</button>
  
+ <p id="demo"></p>
  
+ </div>
+ 
+ <script>
+function quizRight (){
+  document.getElementById("demo").innerHTML = "right ";
+}
 
+function quizWrong (){
+  document.getElementById("demo").innerHTML = "wrong";
+}
+
+</script>
+ 
  </body>
 
 </html>
