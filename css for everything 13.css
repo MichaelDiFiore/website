@@ -1,0 +1,102 @@
+html{
+	 background-color:whight;
+	 font-family:Arial;
+	}
+
+h4{
+	text-align:right;
+	padding: 10px;
+	color: #B22222;
+}
+
+h1{
+	text-align:center;
+	width:320px;
+	padding:20px;
+    border:5px;
+    margin:0;
+	color: #B22222;
+	font-family:Arial;
+	background-color:#111;
+	margin-left:550px;
+	margin-bottom:20px
+}
+.photoSize {
+	width:1000px;
+  height:650px;
+	padding:20;
+	}
+
+ul {
+    list-style-type: none;
+	text-align:center;
+    overflow: hidden;
+    background-color:#111;
+}
+
+ li{
+    float: left;
+	padding : 1.52px;
+}
+.divBackground{
+	background-color: #111;
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+	background-color: #111;
+
+}
+
+.divCenterBorder {
+	margin: auto;
+    width: 60%;
+    border: 3px solid #111;
+    padding: 20px;
+}
+.photoSideBySide {
+	width: 500px;
+	height: 350px;
+	float: left;
+	padding-top: 20px;
+}
+.right{
+   margin: auto;
+   width:7%;
+}
+.left{
+   margin: auto;
+   width:62%;
+}
+.button {
+	background-color: #111;
+  border: none;
+	text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+	color: #B22222;
+	width: 90px;
+	height: 30px;
+}
+
+.button:hover {
+	background-color:#B22222;
+	color:#111;
+
+}
+
+.divCenterStuff{
+	width: 1000px;
+	margin: auto;
+}
+.buttonRight{
+	margin:50%;
+	width:500px;
+}
